@@ -1,0 +1,3 @@
+/mnt/d/Studia/Dron 5.2/zadanie-5.2-dron/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/Studia/Dron 5.2/zadanie-5.2-dron/build/CMakeFiles/dron.dir
+/mnt/d/Studia/Dron 5.2/zadanie-5.2-dron/build/CMakeFiles/edit_cache.dir

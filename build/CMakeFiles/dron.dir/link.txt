@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/dron.dir/src/Bryla.cpp.o CMakeFiles/dron.dir/src/Dron.cpp.o CMakeFiles/dron.dir/src/Scena.cpp.o CMakeFiles/dron.dir/src/Wirnik.cpp.o CMakeFiles/dron.dir/src/lacze_do_gnuplota.cpp.o CMakeFiles/dron.dir/src/main.cpp.o  -o dron 
